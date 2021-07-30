@@ -9,6 +9,8 @@
 
 ## Demo
 - You can visit the website at link: https://socialnetworkservlet.herokuapp.com/Login.jsp
+- Username: demo.
+- Password: 1.
 
 ## Installation on localhost
 - Install java 8.
