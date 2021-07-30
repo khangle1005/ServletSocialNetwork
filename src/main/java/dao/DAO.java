@@ -728,6 +728,6 @@ public class DAO {
 	
 //	public static void main(String[] args) {
 //		DAO dao = new DAO();
-//		dao.sendMessage(1, 2, "test loi");
+//		List<Message> list = dao.getAllMessages(1, 2);
 //	}
 }
