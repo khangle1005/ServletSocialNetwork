@@ -8,7 +8,7 @@
 - Real time chatting with friends.
 
 ## Demo
-- You can visit the website at link: https://socialnetworkservlet.herokuapp.com/Login.jsp
+- Demo link: https://socialnetworkservlet.herokuapp.com/Login.jsp
 - Username: demo.
 - Password: 1.
 
