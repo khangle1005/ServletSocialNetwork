@@ -18,9 +18,13 @@
 - In Eclipse IDE, run file Login.jsp to open login page.
 
 ## Screenshots
+- Log in:
+![](screenshots/login.png)
 - News Feed:
 ![](screenshots/demo.png)
-- User profile:
+- My profile:
 ![](screenshots/demo_profile.png)
+- View users profile & add friend:
+![](screenshots/viewprofile.png)
 - Messages:
 ![](screenshots/demo_message.png)
